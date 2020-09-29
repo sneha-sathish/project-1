@@ -1,0 +1,12 @@
+body{
+    background-color: whitesmoke}
+
+  .navbar-brand{
+      font-size: 60px;
+  } 
+  
+  .nav-link{
+      margin-top: 30px;
+      margin-left: 20px;
+      font-size: 25px;
+  }
